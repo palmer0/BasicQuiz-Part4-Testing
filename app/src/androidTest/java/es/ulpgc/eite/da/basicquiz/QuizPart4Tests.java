@@ -21,7 +21,7 @@ import org.junit.runner.RunWith;
 @RunWith(AndroidJUnit4.class)
 @LargeTest
 @SuppressWarnings("ALL")
-public class QuizTests {
+public class QuizPart4Tests {
 
 
     @Rule
